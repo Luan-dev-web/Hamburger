@@ -1,14 +1,14 @@
 const menuOptions = [
-  { name: 'X-Bacon', price: 30, vegan: false, src: 'assets/X-Bacon.webp' },
+  { name: 'X-Bacon', price: 35, vegan: false, src: 'assets/X-Bacon.webp' },
   { name: 'X-Ovo', price: 30, vegan: false, src: 'assets/x-Bacon com Ovo.webp' },
-  { name: 'X-Fitness', price: 30, vegan: true, src: 'assets/X-Fitness.webp' },
-  { name: 'X-Fitness_2', price: 30, vegan: true, src: 'assets/X-Fitness-2.webp' },
+  { name: 'X-Fitness', price: 40, vegan: true, src: 'assets/X-Fitness.webp' },
+  { name: 'X-Fitness_2', price:42, vegan: true, src: 'assets/X-Fitness-2.webp' },
   { name: 'X-Salada', price: 30, vegan: false, src: 'assets/X-Salada.webp' },
-  { name: 'X-Monstruoso', price: 30, vegan: false, src: 'assets/X-Mostruoso.webp' },
+  { name: 'X-Monstruoso', price: 50, vegan: false, src: 'assets/X-Mostruoso.webp' },
   { name: 'X-Normal', price: 30, vegan: false, src: 'assets/X-Normal.webp' },
   { name: 'X-Queijo', price: 30, vegan: false, src: 'assets/X-Queijo.webp' },
-  { name: 'X-Vegano', price: 30, vegan: true, src: 'assets/X-Vegano.webp' },
-  { name: 'X-Vegano_2', price: 30, vegan: true, src: 'assets/X-Vegano-2.webp' },
+  { name: 'X-Vegano', price: 40, vegan: true, src: 'assets/X-Vegano.webp' },
+  { name: 'X-Vegano_2', price: 45, vegan: true, src: 'assets/X-Vegano-2.webp' },
 ];
 
 const ul = document.getElementById('menu-list');
